@@ -94,7 +94,7 @@ http://127.0.0.1:8000/docs
 🌐 Live Streamlit App
 
 🚀 **Try the app here:**
-https://your-streamlit-url.streamlit.app
+https://churn-api-c2apv35prmnxygyjxqf4jn.streamlit.app/
 
 ---
 
