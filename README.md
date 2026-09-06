@@ -90,3 +90,39 @@ python -m uvicorn app:app --reload
 
 Open in browser:
 http://127.0.0.1:8000/docs
+
+🌐 Live Streamlit App
+
+🚀 **Try the app here:**
+https://churn-api-c2apv35prmnxygyjxqf4jn.streamlit.app/
+
+---
+
+🖥️ Streamlit Frontend
+
+This is an interactive dashboard built using **Streamlit** that allows users to:
+
+* Enter customer details manually for churn prediction
+* Upload CSV files for batch prediction
+* View churn probability with visual indicators
+* Download prediction results
+
+---
+
+⚙️ Streamlit Deployment Details
+
+* Hosted on **Streamlit Cloud**
+* Automatically updates on every GitHub push
+* Uses a separate dependency file:
+
+bash
+requirements-streamlit.txt
+
+
+
+▶️ Run Locally
+
+bash
+streamlit run app.py
+
+
